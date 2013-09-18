@@ -1,0 +1,34 @@
+body
+{
+	background-image:url(images/gradient.jpg);
+	background-repeat:repeat-x;
+	margin-top:50px;
+	margin-left:10%;
+}
+
+h1
+{
+	color:#282828;
+}
+
+p
+{
+	font-size:12px;
+	font-family:Verdana;
+	margin-top:10px;
+	margin-left:15%;
+	margin-right:15%;
+}
+
+hr
+{
+	width:50%;
+	height:1px;
+}
+
+#end
+{
+	text-align:center;
+	font-size:10px;
+	color:#6699FF;
+}
