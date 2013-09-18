@@ -8,7 +8,8 @@ body
 
 h1
 {
-	color:#282828;
+	color:#888888;
+	font-family: Georgia;
 }
 
 p
@@ -16,7 +17,7 @@ p
 	font-size:12px;
 	font-family:Verdana;
 	margin-top:10px;
-	margin-left:15%;
+	margin-left:5%;
 	margin-right:15%;
 }
 
@@ -24,6 +25,11 @@ hr
 {
 	width:50%;
 	height:1px;
+}
+
+#name
+{
+	color:#282828; 
 }
 
 #end
